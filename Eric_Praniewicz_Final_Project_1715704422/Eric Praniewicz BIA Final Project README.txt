@@ -1,10 +1,3 @@
- Eric Praniewicz | BIA | Final Project
-
-
-
-The below contains contents pertaining to the Sprint 7 / Final project for TripleTen BIA program.
-
-
 | Line Item | Title | Description |
 | :-----------: | ----------- |----------- |
 | 1 | Final Project Overview | (Final Project completed in Tableau Workbook instead of PowerBI Report detailed in plan)
