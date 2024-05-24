@@ -4,7 +4,7 @@ A collection of key projects completed while enrolled in TripleTen's Business In
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [BIA Sprint 4 - Tableau Project]https://github.com/epraniewicz/Data-Projects-TripleTen-/tree/d5b812f2eef3faf77e7bbd3f898a22b5147c5c2f/Sprint%204_Tableau_Project| The project task was to analyze sales data for fictitious company Superstore to assist in improving their overall financial status and profitability. |
+| 1 | [BIA Sprint 4 - Tableau Project] https://github.com/epraniewicz/Data-Projects-TripleTen-/tree/d5b812f2eef3faf77e7bbd3f898a22b5147c5c2f/Sprint%204_Tableau_Project| The project task was to analyze sales data for fictitious company Superstore to assist in improving their overall financial status and profitability. |
 | 2 | BIA Sprint 5 - Storytelling with Data | The project task was to analyze sales data for fictitious company Superstore to gain and share any possible insights on customer returns |
 | 3 | BIA Sprint 6 - Power BI Project| The focus of this project was to analyze a Shopify database and identify any insights found with Shopify app ratings.  This project was the first to use PowerBI instead of Tableau. |
 | 4 | BIA Final Project | The focus of this project was analyzing multiple datasets from Zomato, a food delivery app based in India, and presenting insights.  Analysis and visualizations were done in Tableau, where multiple dashboards were created. The insights and suggestions were presented via a companion PDF file, also uploaded. |
