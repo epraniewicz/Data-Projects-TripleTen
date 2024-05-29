@@ -1,21 +1,21 @@
 # File Title: Animated_Movies.twbx
 
-This was my Code Jam Competition project that I worked after the TripleTen Business Intelligence Analytics Program. It was a light-hearted team project designed to showcase my Tableau and Collaboration skills.
+March Code Pudding 2024 was a voluntary extracurricular competition for current students and recent grads of the TripleTen BIA and Data Science programs. It was a light-hearted competition where students camee together as teams and analyzed a dataset of their choosing to find insights and create a thoughtful and visually stimulating presentation based on their findings. This presentation was then brought to a panel of judges via YouTube livestream.
 
 [<img src="https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Images/Project9Pic.png" alt="Tableau Story Welcome Page">](https://public.tableau.com/views/Animated_Movies/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 YouTube LIVE recording of entire competition with host Q&A can be found <a href='https://www.youtube.com/live/rWTYgq_3ER4?si=fNs4AeeffGvZo9k8' target=_blank><u>here</u>.</a>
-Team Chart-cuteri's recorded presentation can be found <a href='https://drive.google.com/file/d/1hCgHvyS8QK4xuK0Vba_DeCW6dX-BBXlA/view?usp=drive_link' target=_blank><u>here</u>.</a>
+Team Chart-cuterie's recorded presentation can be found <a href='https://drive.google.com/file/d/1hCgHvyS8QK4xuK0Vba_DeCW6dX-BBXlA/view?usp=drive_link' target=_blank><u>here</u>.</a>
 Tableau Public link <a href='https://public.tableau.com/views/Animated_Movies/AnimatedMoviesBringingtheWorldTogether?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link' target=_blank><u>here</u>.</a>
 
 ### Table of Contents
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Animated_Movies.twbx](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Animated_Movies.twbx) | The Tableau Workbook file with all interactive Visualizations, Dashboards, and Story. |
-| 2 | [Animation_Movies.csv](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Animation_Movies.csv) | Original spreadsheet file in csv format provided at the start of the competition. |
-| 3 | [March_Code_Pudding_Data_Cleaning_..ipynb](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/March_Code_Pudding_Data_Cleaning_.ipynb) | Jupiter Notebook file using Python for Data cleaning and EDA performed at the start of the analysis. |
+| 1 | [Animated_Movies.twbx](https://github.com/epraniewicz/Data-Projects-TripleTen/blob/5fa29dd9c2eda123693634cb56e65202108a1764/TripleTen%20March%20Code%20Pudding%20-%20Animated%20Movies/Animated_Movies.twbx) | The Tableau Workbook file with all interactive Visualizations, Dashboards, and Story. |
+| 2 | [Animation_Movies.csv](https://github.com/epraniewicz/Data-Projects-TripleTen/blob/5fa29dd9c2eda123693634cb56e65202108a1764/TripleTen%20March%20Code%20Pudding%20-%20Animated%20Movies/Animation_Movies.csv) | Original spreadsheet file in csv format provided at the start of the competition. |
+| 3 | [March_Code_Pudding_Data_Cleaning_..ipynb](https://github.com/epraniewicz/Data-Projects-TripleTen/blob/5fa29dd9c2eda123693634cb56e65202108a1764/TripleTen%20March%20Code%20Pudding%20-%20Animated%20Movies/March_Code_Pudding_Data_Cleaning_.ipynb) | Jupiter Notebook file using Python for Data cleaning and EDA performed at the start of the analysis. |
 | 4 | README.md | This current page, with all relevant information about the project, just past the Table of contents. |
-| 5 | [Requirements.txt](https://github.com/Tiffany-Bergett/Data_projects_TripleTen/blob/main/Animation%20Movies/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
+| 5 | [Requirements.txt](https://github.com/epraniewicz/Data-Projects-TripleTen/blob/5fa29dd9c2eda123693634cb56e65202108a1764/TripleTen%20March%20Code%20Pudding%20-%20Animated%20Movies/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen and The Pudding. |
 
 | Section Title | Description |
 | ----------- |----------- |
