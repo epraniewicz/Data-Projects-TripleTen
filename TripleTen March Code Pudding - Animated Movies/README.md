@@ -77,12 +77,16 @@ Lastly, We recorded our assigned portions of the presentation and used video man
 - Elemental had highest Popularity scores
 
 ### Results:
-Collaborative Brainstorming: I effectively worked with a team to identify interesting stories within provided datasets.
-Data-Driven Storytelling: I focused on insights supported by data, ensuring clear and ethical use of information.
-Visual Storytelling: I created unique data visualizations that complemented the narrative and communicated key points effectively.
+Collaborative Brainstorming: All team members effectively contributed to determining questions that we wanted to answer as well as planning of presentation and visuals.
+
+Data-Driven Storytelling: All team members had unique areas of expertise that allowed us to segment tasks effectively in cleaning and analyzing data as well as creating visuals.
+
+Visual Storytelling:  I was able to use my Tableau expertise to create visuals and dashboards as well as create the outline for the Story presentation.
+
 Presentation Skills: I participated in crafting a clear and concise presentation that showcased our project's findings within a limited timeframe.
 
 This project highlights my strengths in:
 Data Analysis & Exploration (understanding and manipulating data)
 Data Visualization (creating clear and informative visuals)
 Communication & Teamwork (conveying insights and collaborating effectively)
+Presentation Skills (Creating a multi-dimensional story complete with dashboards and video presentation of the report)
