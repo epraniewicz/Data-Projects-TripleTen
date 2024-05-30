@@ -13,7 +13,7 @@
 
 PowerPoint deck attached as PDF - report acts as companion to Tableau Story, found in workbook (final tab of workbook).
 
-Most visualizations act as filters for dashboard to narrow down data Ð layout for main dashboard explained in Report.
+Most visualizations act as filters for dashboard to narrow down data. Layout for main dashboard explained in Report.
 
 Thank you,
 Eric Praniewicz
